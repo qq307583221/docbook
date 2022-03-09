@@ -2,7 +2,7 @@
 
 ![logo](./media/icon.png)
 
-# 计算机知识归纳 <small>3.5</small>
+# 黄远志计算机知识归纳 <small>3.5</small>
 
 > 互联网java工程师知识全扫盲。
 
