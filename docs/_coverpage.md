@@ -10,5 +10,5 @@
 - 无需生成 html 文件
 - 众多主题
 
-[open](https://github.com/docsifyjs/docsify/)
+[open](zzt.md)
 [Get Started](README.md )
